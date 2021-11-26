@@ -1,0 +1,21 @@
+id,titulo,autor,precio,IdEditorial
+1,Don Quijote de la Mancha,de Miguel de Cervantes,4000,2
+2,Historia de dos ciudades,de Charles Dickens,2300,1
+3,El principito,de Antoine,3000,3
+4,El Señor de los Anillos,de J.R.R Tolkien,5500,3
+5,Sueño en el pabellon rojo,de Cao Xuqein,3000,5
+6,Lolita,de Vladimir Nabokov,7000,4
+7,El codigo Da Vinci,de Dan Brown,3650,2
+8,El nombre de la rosa,de Umberto Eco,3850,6
+9,El guardian entre el centeno,de J.D Salinger,1240,5
+10,Diez negritos,de Agatha Christie,3500,1
+11,Robinson Crusoe,de Daniel Defoe,3435,1
+12,El arte de la guerra,de Sun Tzu,3790,3
+13,La colina de Watership,de Richard Adams,1000,6
+14,Guerra y paz,de Lev Tolstoi,1200,4
+15,El conde de Montecristo,de Alexandre Dumas,2000,3
+16,El hobbit,de J.R.R Tolkien,5000,2
+17,Orgullo y prejuicio,de Jane Austen,7000,1
+18,El mundo de sofia,de Jostein Gaarder,6300,4
+19,Matar a un ruiseñor,de Harper Lee,3000,3
+20,Flores en el atico,de V.C Andrews,6000,4
