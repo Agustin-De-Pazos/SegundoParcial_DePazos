@@ -104,6 +104,8 @@ int main(void) {
 	      }
 	      system("pause");
 	}while(salir == 'n');
+	ll_deleteLinkedList(listaLibros);
+	ll_deleteLinkedList(listaEditorial);
 
 	return EXIT_SUCCESS;
 }
